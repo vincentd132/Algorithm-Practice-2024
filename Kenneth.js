@@ -99,6 +99,7 @@ function getHistory() {
         </div>`
     );
   }
+  //algorithm getHistory
 
   DOMSelectors.history.insertAdjacentHTML(
     "afterbegin",
